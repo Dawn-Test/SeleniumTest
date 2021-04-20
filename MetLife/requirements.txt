@@ -39,7 +39,7 @@ packaging==20.4
 paramiko==2.7.2
 Pillow==7.2.0
 pluggy==0.13.1
-py==1.9.0
+py==1.10.0
 PyAutoGUI==0.9.50
 pycparser==2.20
 PyGetWindow==0.0.8
